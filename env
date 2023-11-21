@@ -1,0 +1,5 @@
+FLASK_APP=app
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY='Rangers'
+DATABASE_URL=postgresql://alykjdkm:KQVkbLej6jfEwEbUGfaBAkRtHX1WHMqB@berry.db.elephantsql.com/alykjdkm
